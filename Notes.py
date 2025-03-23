@@ -16,3 +16,13 @@
 # git add . -> For adding all the file in the git hub(We not want add any file then put the name of that file in the gitignore)
 
 # git reset -> To reset the change 
+
+# git commit -m "Some message"
+
+# git branch -> To check which branch we are pointing
+
+# git branch -m main -> To pointing the main branch
+
+# git remote add origin https://github.com/Manishydvv/Demo-Pipeline.git
+
+# git push -u origin main
