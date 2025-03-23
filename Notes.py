@@ -26,3 +26,17 @@
 # git remote add origin https://github.com/Manishydvv/Demo-Pipeline.git
 
 # git push -u origin main
+
+# pip install -r requirements.txt
+
+# We make __init__.py file in the folder so that folder become package
+
+# setup.py is for making them package (and this file find the package with help of the __init__.py)
+
+# conda list -> For checking the package in the env(if we write it in the environment)
+
+# First run setup.py file (python setup.py install)
+
+# We write -e . in the requirements.txt so that we download over package inside the environment(it start appearing in the conda list(census-income))
+
+# pip list -> To check the package in the environment
